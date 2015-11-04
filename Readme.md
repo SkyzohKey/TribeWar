@@ -1,1 +1,2 @@
 # TribeWar
+## How to use ?
